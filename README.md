@@ -1,33 +1,33 @@
-E-Commerce Sales Analysis  
-Portfolio Project | Data Analyst | 2026
+# E-Commerce Sales Analysis  
+*By Maria Ilnitska | Portfolio Project*
 
-Business Problem
+1. **Business Problem**
 
 An e-commerce company operating in Turkey wants to:
+
 - Increase revenue
+
 - Improve customer retention
-- Optimize operations
-- Improve customer satisfaction
 
-This project analyzes 5,000 transactions (Jan 2023 – Mar 2024) to provide actionable business insights.
+- Optimize marketing efforts
 
-```
-E-Commerce Customer Behavior and Sales Dataset (2024)
-Turkish Online Retail Platform Data (2023-2024)
-Available on Kaggle
-```
+- Improve delivery performance
 
-Business problem
+Management needs data-driven insights to guide strategic decisions.
 
-Problem Solving
+2. **Project Objectives**
 
-Dataset description
+This analysis aims to:
 
-Key insights
+- Identify revenue trends and seasonality
 
-Business recommendations
+- Analyze product category performance
 
-Visualizations
+- Segment customers based on behavior
+
+- Evaluate delivery impact on satisfaction
+
+- Provide actionable business recommendations
 
 ## Contacts
 
